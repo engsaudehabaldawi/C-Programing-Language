@@ -1,1 +1,2 @@
 # C-Programing-Language
+In this project, I developed a Hospital Management System in C that allows users to manage and modify data without needing to manually edit the source code. The system includes features such as creating files, deleting files, removing specific records, updating information, and organizing hospital data efficiently. This project strengthened my skills in programming logic, file handling, and system design.
