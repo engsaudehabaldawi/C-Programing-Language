@@ -1,0 +1,5 @@
+N1 Dati 33 Emergency nurse1
+N2 Gabi 22 Surgery nurse2
+N3 Rami 24 Rooms nurse3
+N4 bari 37 Rooms nurse4
+N5 Hati 33 Surgery nurse5

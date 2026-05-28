@@ -1,0 +1,5 @@
+P1 patient1 24 heart_disease patient1
+P2 patient2 66 Stomach_ache patient2
+P3 Fares 22 Headache patient3
+P4 Dani 18 Covid-19 patient4
+P5 Hani 33 Testrol patient5

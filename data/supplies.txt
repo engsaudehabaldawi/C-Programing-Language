@@ -1,0 +1,4 @@
+panadol|100|20.00
+antibiotics|50|50.00
+Acid_see_lsd|100|24.00
+asma|1|10000.00
